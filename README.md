@@ -13,4 +13,5 @@ The files lives under the user home directoy e.g
 Depending on your PhpStorm version this may be different
 
 ## Sublime Text config Location
-
+How to install...
+`C:\Users\*\AppData\Roaming\Sublime Text 3\Packages\User`

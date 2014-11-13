@@ -1,0 +1,2 @@
+magento-coding-style
+====================
